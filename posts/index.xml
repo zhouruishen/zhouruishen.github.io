@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - 小深 hugo blog</title>
+        <link>https://zhouruishen.github.io/posts/</link>
+        <description>All Posts | 小深 hugo blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 13 Dec 2022 14:04:46 &#43;0800</lastBuildDate><atom:link href="https://zhouruishen.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>https://zhouruishen.github.io/first_post/</link>
+    <pubDate>Tue, 13 Dec 2022 14:04:46 &#43;0800</pubDate>
+    <author>小深</author>
+    <guid>https://zhouruishen.github.io/first_post/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
