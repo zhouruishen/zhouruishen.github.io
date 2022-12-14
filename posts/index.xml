@@ -3,13 +3,21 @@
         <title>All Posts - 小深 hugo blog</title>
         <link>https://zhouruishen.github.io/posts/</link>
         <description>All Posts | 小深 hugo blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 13 Dec 2022 14:04:46 &#43;0800</lastBuildDate><atom:link href="https://zhouruishen.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>First_post</title>
-    <link>https://zhouruishen.github.io/first_post/</link>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 13 Dec 2022 23:02:50 &#43;0800</lastBuildDate><atom:link href="https://zhouruishen.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>用Hugo搭建网站</title>
+    <link>https://zhouruishen.github.io/hugo/</link>
+    <pubDate>Tue, 13 Dec 2022 23:02:50 &#43;0800</pubDate>
+    <author>小深</author>
+    <guid>https://zhouruishen.github.io/hugo/</guid>
+    <description><![CDATA[前言 Hugo 是一款基于 Go 语言而实现的静态网站生成器，具有简单易用、高效易扩展、快速部署的特点。 这里先给出 Hugo 的中英文官方文档，方便大家遇到问题时查阅]]></description>
+</item>
+<item>
+    <title>在Linux中安装git</title>
+    <link>https://zhouruishen.github.io/%E5%9C%A8linux%E4%B8%8B%E5%AE%89%E8%A3%85git/</link>
     <pubDate>Tue, 13 Dec 2022 14:04:46 &#43;0800</pubDate>
     <author>小深</author>
-    <guid>https://zhouruishen.github.io/first_post/</guid>
-    <description><![CDATA[]]></description>
+    <guid>https://zhouruishen.github.io/%E5%9C%A8linux%E4%B8%8B%E5%AE%89%E8%A3%85git/</guid>
+    <description><![CDATA[git官网下载地址 https://git-scm.com/download/linux 一、方法一 1.在linux上直接用yum安装git，方法很简单，不过下载的版本比较落后 1 yun -y install git 2.输入git &ndas]]></description>
 </item>
 </channel>
 </rss>
